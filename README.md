@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: vzv0011<br>
+this is the lab folder for insy4970
